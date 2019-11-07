@@ -8,10 +8,10 @@ primary = "#f92472"
 # Menu
 menu_primary = "#fbf9f4"
 menu_text = "#333"
-menu_text_active = "#d03b39"
+menu_text_active = "#f92472"
 menu_title = "#333"
 
 # Backgrounds
 background = "#fbf9f4"
-home_section_odd = "#fbf9f4"
+home_section_odd = "#FDEDE8"
 home_section_even = "#fbf9f4"

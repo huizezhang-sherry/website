@@ -36,6 +36,9 @@ enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
+[params]
+    custom_css = ["css/presdefault.css"]
+
 [permalinks]
 # for optimists who plan to blog a lot
     #post = "/post/:year/:month/:day/:slug/" 

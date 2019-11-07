@@ -1,0 +1,18 @@
+# Font style metadata
+name = "sherry"
+
+# Optional Google font URL
+google_fonts = "Rubic:400,70|Kalam:400,700|Lato: 400"
+
+# Font families
+heading_font = "Kalam"
+body_font = "Lato"
+nav_font = "Kalam"
+mono_font = "Rubic"
+
+# Font size
+font_size = "20"
+font_size_small = "17"
+
+# Font style
+font_style = "italic"

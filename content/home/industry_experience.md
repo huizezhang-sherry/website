@@ -14,7 +14,7 @@ date_format = "Jan 2006"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = 1
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   description = """
   
   * Tuning parameters for machine learning models using sklearn package in Python
-  * Documentation: provide documentation to econometrics models using Markdown
+  * Provide documentation to econometrics models using Markdown
   * Testing: reproduce R results using the company's R&D product: AutoStat 
   """
 
