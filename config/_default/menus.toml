@@ -7,17 +7,17 @@
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 30
+  weight = 2
 
 [[main]]
   name = "Me"
   url = "#about"
-  weight = 40
+  weight = 3
 
 [[main]]
   name = "Experience"
   url = "#industry_experience"
-  weight = 40
+  weight = 1
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
