@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Tutor"
   company = "Monash University"
-  company_url = ""
+  company_url = "" 
   date_start = "2019-08-21"
   date_end = ""
   description = """Lab supervision for ETC1010 Data Modelling and Computing
@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   company = "Predictive Analytics Group"
   company_url = "http://pa-group.com.au/"
   date_start = "2018-08-21"
-  date_end = "2019-04-20"
+  date_end = ""
   description = """
   Responsibilities include:
   

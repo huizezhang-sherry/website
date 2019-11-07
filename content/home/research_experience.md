@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Summer Research"
   date_start = "2018-11-20"
-  date_end = "2019-02-20"
+  date_end = ""
   description = """Develop a method for measuring fatigue and study of evidence of fatigue in professional tennis matches. Supervised by Di Cook and Stephanie Kovalchik. 
   
   * Modelling serving speed using dose-response model in R
