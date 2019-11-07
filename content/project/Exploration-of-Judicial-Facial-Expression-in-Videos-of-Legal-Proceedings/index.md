@@ -6,7 +6,8 @@ image:
   focal_point: Smart
 summary: An analysis of facial expressions of the Justices using facial recognition tools
 tags:
-- Deep Learning
+- computing
+- statistical modelling
 title: Exploration of Judicial Facial Expression in Videos of Legal Proceedings
 url_code: "https://github.com/huizezhang-sherry/ETC4860"
 url_pdf: ""
