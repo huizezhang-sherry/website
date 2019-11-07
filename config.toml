@@ -9,7 +9,7 @@ title = "Sherry Zhang"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = ""
+baseurl = "/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
@@ -40,7 +40,8 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 # for optimists who plan to blog a lot
     #post = "/post/:year/:month/:day/:slug/" 
 # for realists who know that you won't have multiple posts per day (or maybe even month)
-    post = "/post/:year/:slug/" 
+    post = "/post/:year/:slug/"
+    project = "/project/:year"
 
 [outputs]
   home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
