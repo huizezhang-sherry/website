@@ -2,8 +2,8 @@
   "name": "Academic",
   "short_name": "Academic",
   "lang": "en-us",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "theme_color": "#f92472",
+  "background_color": "#f92472",
   "icons": [{
     "src": "../img/icon-192.png",
     "sizes": "192x192",
