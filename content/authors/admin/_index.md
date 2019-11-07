@@ -34,7 +34,7 @@ user_groups:
 - Visitors
 ---
 
-My name is Huize Zhang and feel free to call me Sherry. I'm currently an honours student at Monash Univeristy. I like programming using R and the tidyverse suit is just awesome that it makes data analytics so simple :heart_eyes:. 
+My name is Huize Zhang and feel free to call me Sherry. I'm currently an honours student at Monash University. I like programming using R and the tidyverse suite is just awesome that it makes data analytic so simple :heart_eyes:. 
 
 
-This girl is powered by :coffee: and :tea:, although she is trying to reduce her coeffeine intake. Nice food :fork_and_knife: satisfies her. She also does some sports so you probably would expect to find her in Jells Parkrun :running: or Monash Sports :swimmer:
+This girl is powered by :coffee: and :tea:, although she is trying to reduce her caffeine intake. Nice food :fork_and_knife: satisfies her. She also does some sports so you probably would expect to find her in Jells Parkrun :running: or Monash Sports :swimmer:
