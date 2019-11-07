@@ -3,14 +3,18 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 2  # Order that this section will appear.
 
-title = "Industry Experience"
+title = "Working Experience"
 subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
+
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -25,8 +29,6 @@ date_format = "Jan 2006"
   date_end = ""
   description = """Lab supervision for ETC1010 Data Modelling and Computing
   
-  Responsibilities include:
-  
   * Explain materials to students
   * Help students with coding in R
   * Mark assignments
@@ -37,9 +39,8 @@ date_format = "Jan 2006"
   company = "Predictive Analytics Group"
   company_url = "http://pa-group.com.au/"
   date_start = "2018-08-21"
-  date_end = ""
+  date_end = "2019-04-20"
   description = """
-  Responsibilities include:
   
   * Tuning parameters for machine learning models using sklearn package in Python
   * Documentation: provide documentation to econometrics models using Markdown
