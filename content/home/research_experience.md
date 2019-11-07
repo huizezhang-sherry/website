@@ -26,10 +26,10 @@ date_format = "Jan 2006"
   company_url = "https://github.com/huizezhang-sherry/ETC4860"
   date_start = "2019-03-20"
   date_end = ""
-  description = """Objectively explore the judicial facial expressions using facial recognition tools. Supervised by Di Cook and Russell Smyth. 
+  description = """Objectively explore judicial facial expressions using facial recognition tools. Supervised by Di Cook and Russell Smyth. 
   
-  * Develop workflow for extracting facial variables from videos. Software used include Command Line, Docker,  OpenFace and R. 
-  * Modelling facial variables using generalised linear model and visualising model result
+  * Develop a workflow for extracting facial variables from videos. Software used includes Command-Line, Docker,  OpenFace and R. 
+  * Modelling facial variables using a generalised linear model and visualising the model result
   """
 
 [[experience]]
@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   date_end = "2019-02-20"
   description = """Develop a method for measuring fatigue and study of evidence of fatigue in professional tennis matches. Supervised by Di Cook and Stephanie Kovalchik. 
   
-  * Modelling serving speed using dose-response model in R
+  * Modelling serving speed using a dose-response model in R
   """
 
 +++
