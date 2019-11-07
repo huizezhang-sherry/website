@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   title = "Analyst"
   company = "Predictive Analytics Group"
   company_url = "http://pa-group.com.au/"
-  date_start = "2018-08-21"
+  date_start = "2018-07-21"
   date_end = "2019-04-20"
   description = """
   
