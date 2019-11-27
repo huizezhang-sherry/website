@@ -4,7 +4,7 @@ external_link: ""
 image:
   caption: 
   focal_point: Smart
-summary: Review of Computer Age Statistical Inference by Bradley Efron and Trevor Hastie
+summary: Review of Computer Age Statistical Inference 
 tags:
 - Statistical Inferece
 title: Review of the Book - Computer Age Statistical Inference
