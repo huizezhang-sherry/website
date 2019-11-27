@@ -7,7 +7,8 @@ image:
 summary: 
 tags:
 - Statistical Inferece
-title: Review of the Book: Computer Age Statistical Inference
+
+title: Review of the Book - Computer Age Statistical Inference
 url_code: "https://github.com/huizezhang-sherry/casi"
 url_pdf: ""
 url_slides: "https://casi.netlify.com/presentation/"
