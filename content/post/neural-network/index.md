@@ -1,13 +1,13 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2019-11-08T00:00:00Z"
 external_link: ""
 image:
   caption: 
   focal_point: Smart
 summary: Apply a neural network model to forecast housing price
 tags:
-- neural network
-- machine learning
+- Neural Network
+- Machine Learning
 title: Unit Project - Statistical Machine learning
 url_code: "https://github.com/huizezhang-sherry/melbourne-housing-market"
 url_pdf: ""

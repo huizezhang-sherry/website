@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Review of the book - Computer Age Statistical Inference"
+title: "Unit Project - Statistical Machine learning"
 subtitle: ""
-summary: "Review of the book - Computer Age Statistical Inference "
-authors: [Sherry Zhang]
-tags: [Statistical Inference]
+summary: "Apply a neural network model to forecast housing price"
+authors: []
+tags: [Neural Network, Machine Learning]
 categories: []
-date: 2019-11-27T16:55:39+11:00
-lastmod: 2019-11-27T16:55:39+11:00
+date: 2019-11-27T16:59:56+11:00
+lastmod: 2019-11-27T16:59:56+11:00
 featured: false
 draft: false
 
@@ -27,5 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
-During my honours year, I read the book [Computer Age Statistical Inference](http://web.stanford.edu/~hastie/CASI/) by Bradley Efron and Trevor Hastie. The book provides a great overview of the evolution of statistical inference method with the advance of electronic computers. 
+In this project, housing price data from Kaggle is pre-processed and I build a deep neural network using the Keras package in R. Key parameters in the neural network is tuned using tfrun package. 

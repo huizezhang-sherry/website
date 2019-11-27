@@ -5,8 +5,8 @@
 
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Posts"
+  url = "#post"
   weight = 2
 
 [[main]]
@@ -16,7 +16,7 @@
 
 [[main]]
   name = "Experience"
-  url = "#industry_experience"
+  url = "#research_experience"
   weight = 1
 
 # Link to a PDF of your resume/CV from the menu.

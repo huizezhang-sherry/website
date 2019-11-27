@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Review of the book - Computer Age Statistical Inference"
+title: "Casi"
 subtitle: ""
-summary: "Review of the book - Computer Age Statistical Inference "
-authors: [Sherry Zhang]
-tags: [Statistical Inference]
+summary: ""
+authors: []
+tags: []
 categories: []
-date: 2019-11-27T16:55:39+11:00
-lastmod: 2019-11-27T16:55:39+11:00
+date: 2019-11-27T17:14:39+11:00
+lastmod: 2019-11-27T17:14:39+11:00
 featured: false
 draft: false
 
