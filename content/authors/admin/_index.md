@@ -3,16 +3,18 @@ authors:
 - admin
 education:
   courses:
-  - course: Bachelor of Commerce (Honours)
+  - course: PhD
+    institution: Monash Univeristy
+    year: 2023
+  - course: BComm (Hons)
     institution: Monash University
     year: 2019
-  - course: Bachelor of Commerce
-    institution: Monash University
-    year: 2018
 email: "huizezhangsh@gmail.com"
 interests:
-- Visualisation
-- Machine Learning
+- computational statistics
+- statistical graphics
+- temporal data analysis
+- machine learning
 name: Sherry Zhang
 organizations:
 - name: Monash University
@@ -34,7 +36,6 @@ user_groups:
 - Visitors
 ---
 
-My name is Huize Zhang and feel free to call me Sherry. I'm currently an honours student at Monash University. I like programming using R and the tidyverse suite is just awesome that it makes data analytics so simple :heart_eyes:. 
+I'm Sherry Zhang, a first year PhD student in Monash University supervised by [Di Cook](http://dicook.org/) and [Patricia Menéndez](https://www.patriciamenendez.com/). I like programming using R and the tidyverse suite is just awesome that it makes data analytics so simple :heart_eyes:. 
 
-
-This girl is powered by :coffee: and :tea:, although she is trying to reduce her caffeine intake. Nice food :fork_and_knife: satisfies her. She also does some sports so you probably would expect to find her in Jells Parkrun :running: or Monash Sports :swimmer:
+Recently, I created my first package [quickdraw](https://github.com/huizezhang-sherry/quickdraw) at [NUMBAT Hackathon 2020](https://numbats-rise-up.netlify.com/post/hackathon_2020/) with [Stuart Lee](https://stuartlee.org/). 
