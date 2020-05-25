@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistical Modelling | Sherry Zhang</title>
+    <link>/tags/statistical-modelling/</link>
+      <atom:link href="/tags/statistical-modelling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Statistical Modelling</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 07 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/headshot.png</url>
+      <title>Statistical Modelling</title>
+      <link>/tags/statistical-modelling/</link>
+    </image>
+    
+    <item>
+      <title>Exploration of Judicial Facial Expression in Videos of Legal Proceedings</title>
+      <link>/post/2019/exploration-of-judicial-facial-expression-in-videos-of-legal-proceedings/</link>
+      <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/post/2019/exploration-of-judicial-facial-expression-in-videos-of-legal-proceedings/</guid>
+      <description>&lt;p&gt;It is part of human nature to react to changes by expressing emotions. However, in some situations it is necessary to attempt to restrict reactions, and expressions of emotions. In many court systems it is required that Justices should restrict emotional displays to ensure the judgement is not biased towards a particular party. In this study, facial recognition software is used to objectively assess the facial expressions of six Justices in six cases (seven videos) heard in the High Court of Australia. I found that Justices generally remain impartial during the court proceedings. Negative emotions such as sadness, fear and anger are associated with action units that occur more intensely or frequently. The requirement to remain expressionless is difficult for some Justices, especially in criminal cases that involve drugs and sexual assaults.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

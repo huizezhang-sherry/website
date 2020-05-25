@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | Sherry Zhang</title>
+    <link>/tags/machine-learning/</link>
+      <atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Nov 2019 16:59:56 +1100</lastBuildDate>
+    <image>
+      <url>/img/headshot.png</url>
+      <title>Machine Learning</title>
+      <link>/tags/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Unit Project - Statistical Machine learning</title>
+      <link>/project/2019/</link>
+      <pubDate>Wed, 27 Nov 2019 16:59:56 +1100</pubDate>
+      <guid>/project/2019/</guid>
+      <description>&lt;p&gt;In this project, housing price data from Kaggle is pre-processed and I build a deep neural network using the Keras package in R. Key parameters in the neural network is tuned using tfrun package.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unit Project - Statistical Machine learning</title>
+      <link>/post/2019/unit-project-statistical-machine-learning/</link>
+      <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/post/2019/unit-project-statistical-machine-learning/</guid>
+      <description>&lt;p&gt;In this project, housing price data from Kaggle is pre-processed and I build a deep neural network using the Keras package in R. Key parameters in the neural network is tuned using tfrun package.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

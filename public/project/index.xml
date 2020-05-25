@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>project | Sherry Zhang</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>project</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/headshot.png</url>
+      <title>project</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Quickdraw</title>
+      <link>/project/2020/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/2020/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://github.com/huizezhang-sherry/quickdraw&#34;&gt;quickdraw&lt;/a&gt; package allows you to download and retrieve the dataset categories from the &lt;a href=&#34;https://github.com/googlecreativelab/quickdraw-dataset&#34;&gt;Google quickdraw dataset&lt;/a&gt;. It has been used as the data source for the class projection of &lt;a href=&#34;https://iml-monash.netlify.app/project/project.html&#34;&gt;ETC3250 Introductory Machine Learning&lt;/a&gt; in Monash University.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Judgeface</title>
+      <link>/project/2019/</link>
+      <pubDate>Wed, 27 Nov 2019 16:58:07 +1100</pubDate>
+      <guid>/project/2019/</guid>
+      <description>&lt;p&gt;It is part of human nature to react to changes by expressing emotions. However, in some situations it is necessary to attempt to restrict them. In many court systems, Justices are required to remain still to ensure the judgement is not biased. In this study, technological tools (Command Line, Docker and R) and facial recognition software (Open Face) is used to objectively assess the facial expressions of six Justices in six cases (seven videos), heard in the High Court of Australia. I found that Justices generally remain impartial during the court proceedings. Negative emotions such as sadness, fear and anger occured more intensely or frequently than positive emotions i.e. happiness and surprise. The requirement to remain expressionless is difficult for some Justices, especially in criminal cases where drugs and sexual assaults are involved.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

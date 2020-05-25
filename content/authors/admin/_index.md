@@ -19,7 +19,7 @@ name: Sherry Zhang
 organizations:
 - name: Monash University
   url: "https://www.monash.edu/"
-role: Honours student
+role: PhD student
 social:
 - icon: envelope
   icon_pack: fas
@@ -36,6 +36,6 @@ user_groups:
 - Visitors
 ---
 
-I'm Sherry Zhang, a first year PhD student in Monash University supervised by [Di Cook](http://dicook.org/) and [Patricia Menéndez](https://www.patriciamenendez.com/). I like programming using R and the tidyverse suite is just awesome that it makes data analytics so simple :heart_eyes:. 
+I'm Sherry Zhang, a first year PhD student in Monash University supervised by [Di Cook](http://dicook.org/) and [Patricia Menéndez](https://www.patriciamenendez.com/). Feel free to have a go at pronouncing my Chinese name: Hui-ze (Think of "ze" as the first sound when you say Zverev, Alexander - a raising tennis star). 
 
-Recently, I created my first package [quickdraw](https://github.com/huizezhang-sherry/quickdraw) at [NUMBAT Hackathon 2020](https://numbats-rise-up.netlify.com/post/hackathon_2020/) with [Stuart Lee](https://stuartlee.org/). 
+These days, I'm working on the diagnostics of purjection pursuit optimisation and teaching introduction to data analysis in R for both [undergrads](https://ida-monash.netlify.com/) and [postgrads](https://mida-monash.netlify.com/). I like programming using R and the tidyverse suite is just awesome that it makes data analytics so simple :heart_eyes:. I created my first R package [quickdraw](https://github.com/huizezhang-sherry/quickdraw) at [NUMBAT Hackathon 2020](https://numbats-rise-up.netlify.com/post/hackathon_2020/) with [Stuart Lee](https://stuartlee.org/). 

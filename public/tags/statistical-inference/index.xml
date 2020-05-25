@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistical Inference | Sherry Zhang</title>
+    <link>/tags/statistical-inference/</link>
+      <atom:link href="/tags/statistical-inference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Statistical Inference</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Nov 2019 16:55:39 +1100</lastBuildDate>
+    <image>
+      <url>/img/headshot.png</url>
+      <title>Statistical Inference</title>
+      <link>/tags/statistical-inference/</link>
+    </image>
+    
+    <item>
+      <title>Review of the book - Computer Age Statistical Inference</title>
+      <link>/project/2019/</link>
+      <pubDate>Wed, 27 Nov 2019 16:55:39 +1100</pubDate>
+      <guid>/project/2019/</guid>
+      <description>&lt;p&gt;During my honours year, I read the book &lt;a href=&#34;http://web.stanford.edu/~hastie/CASI/&#34;&gt;Computer Age Statistical Inference&lt;/a&gt; by Bradley Efron and Trevor Hastie. The book provides a great overview of the evolution of statistical inference method with the advance of electronic computers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Review of the Book - Computer Age Statistical Inference</title>
+      <link>/post/2019/review-of-the-book-computer-age-statistical-inference/</link>
+      <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/post/2019/review-of-the-book-computer-age-statistical-inference/</guid>
+      <description>&lt;p&gt;During my honours year, I read the book &lt;a href=&#34;http://web.stanford.edu/~hastie/CASI/&#34;&gt;Computer Age Statistical Inference&lt;/a&gt; by Bradley Efron and Trevor Hastie. The book provides a great overview of the evolution of statistical inference methods with the advance of electronic computers.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
