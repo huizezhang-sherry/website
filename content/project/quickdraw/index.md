@@ -30,4 +30,4 @@ url_code: "https://github.com/huizezhang-sherry/quickdraw"
 projects: []
 ---
 
-The [quickdraw](https://github.com/huizezhang-sherry/quickdraw) package allows you to download and retrieve the dataset categories from the [Google quickdraw dataset](https://github.com/googlecreativelab/quickdraw-dataset). It has been used as the data source for the class projection of [ETC3250 Introductory Machine Learning](https://iml-monash.netlify.app/project/project.html) in Monash University.
+The [quickdraw](https://github.com/huizezhang-sherry/quickdraw) package allows you to download and retrieve the dataset categories from the [Google quickdraw dataset](https://github.com/googlecreativelab/quickdraw-dataset). It has been used as the data source for the class projection of [ETC3250 Introductory Machine Learning](https://iml-monash.netlify.app/project/project.html) at Monash University.
