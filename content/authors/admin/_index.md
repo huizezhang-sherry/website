@@ -36,4 +36,4 @@ user_groups:
 - Visitors
 ---
 
-I'm Sherry, a second year PhD student at Monash University supervised by [Di Cook](http://dicook.org/),  [Patricia Menéndez](https://www.patriciamenendez.com/) and [Nicolas Langrené](https://people.csiro.au/L/N/Nicolas-Langrene). My research focuses on visual diagnostics of stochastic algorithms, i.e. projection pursuit optimisation. I have taught various courses in Monash [Master of Business Analytics](https://www.monash.edu/study/courses/find-a-course/2021/business-analytics-b6022).  I sport (:swimmer: :badminton:), read, cook, and sleep.
+I'm Sherry, a second year PhD student at Monash University supervised by [Di Cook](http://dicook.org/),  [Patricia Menéndez](https://www.patriciamenendez.com/) and [Nicolas Langrené](https://people.csiro.au/L/N/Nicolas-Langrene). My research focuses on visual diagnostics of stochastic algorithms, i.e. projection pursuit optimisation. I have tutored various units in Monash's [Master of Business Analytics](https://www.monash.edu/study/courses/find-a-course/2021/business-analytics-b6022) program.  I sport (:swimmer:, :badminton:), read, cook, and sleep.

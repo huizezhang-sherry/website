@@ -1,18 +1,11 @@
 # Font style metadata
 name = "sherry"
-
+light = "true"
 # Optional Google font URL
-google_fonts = "Rubic:400,70|Kalam:400,700|Lato: 400"
+google_fonts = "Great+Vibes:400,700|Open-Sans:400,700|Italianno:700,900|Raleway:400,700|Bitter: 400i,700i"
 
 # Font families
-heading_font = "Kalam"
-body_font = "Lato"
-nav_font = "Kalam"
-mono_font = "Rubic"
-
-# Font size
-font_size = "20"
-font_size_small = "17"
-
-# Font style
-font_style = "italic"
+heading_font = "Bitter"
+body_font = "Raleway"
+nav_font = "Great Vibes"
+mono_font = "Open Sans"
